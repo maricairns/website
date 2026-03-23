@@ -1,3 +1,3 @@
-# website 🌐
+# Independent AI Safety 🌐
 
-maricairns.github.io/build
+https://maricairns.github.io/build/
