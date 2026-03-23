@@ -1,3 +1,3 @@
 # website 🌐
 
-https://maricairns.github.io/
+maricairns.github.io/build
